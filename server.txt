@@ -1,0 +1,25 @@
+Hi Students,
+The due date of CS412 assignment is 2nd May,2022.
+
+Assignment Questions
+==========================
+1. A thread is not runnable if it has terminated.   
+2. When the thread’s quantum expires, the thread returns to the running state as the operating system assigns it to a processor.
+3. A sleeping thread remains in the timed waiting state for a designated period of time (called a sleep interval), after which it returns to the runnable state. 
+4. The process that an operating system uses to determine which thread to dispatch is called thread guidance.
+5. The relationship between a primary key and its corresponding foreign keys is one-to-one.
+6. Classes and interfaces for the JDBC API can be found in java.sql package.
+7. To pass parameters in RPC, marshaling is a technique used to convert parameters into machine independent forma.
+8. In RPC, a procedure can pass a reference parameter or pointer.
+9. A server looks through the RMI registry for the remote object.
+10. The rebind() method can be used by a server to register a remote object by name, but if the name is already bound to a remote object reference an exception is thrown.
+
+
+Instrcutions
+====================
+
+The answer file should be filled as follows by the student
+
+Student Name
+
+Followed by answers TRUE or FALSE
